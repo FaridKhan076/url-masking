@@ -2,8 +2,8 @@
 	<img src="https://i.imgur.com/plp3lJu.jpg" width="600px" hight="100px">
 </p>
 
-## Author: https://github.com/jaykali
-## Twitter: https://twitter.com/KaliLinux_in
+## Author: https://github.com/FaridKhan076
+## Twitter: https://twitter.com/FaridKhan076
 
 
 ### MaskPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
